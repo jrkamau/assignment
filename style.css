@@ -33,7 +33,7 @@ header nav ul li a {
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: url(pexels-ekrulila-2292837.jpg);
+    background: url(https://images.pexels.com/photos/2292837/pexels-photo-2292837.jpeg?auto=compress&cs=tinysrgb&w=600);
     background-size: cover;
     background-position: center;
     color: rgb(231, 226, 226);
@@ -41,13 +41,13 @@ header nav ul li a {
     font-weight: 600;
 }
 .jumbotron {
-    background:url(pexels-pixabay-289740.jpg);
+    background:url(https://images.pexels.com/photos/289740/pexels-photo-289740.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
     background-size: cover;
     background-position: center;
     color: #ffffff;
 }
 .enroll {
-    background: url(pexels-pixabay-356065.jpg);
+    background: url(https://images.pexels.com/photos/356065/pexels-photo-356065.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
     background-position: center;
     background-size: cover;
     color: #ffffff;
@@ -80,12 +80,12 @@ footer {
 }
 /* Section Background Colors */
 #about {
-    background:url(pexels-_-cecile-2065577-21077451.jpg);
+    background:url(https://images.pexels.com/photos/3747505/pexels-photo-3747505.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
     background-size: cover;
     background-position: center;
 }
 #courses {
-    background: url(https://images.pexels.com/photos/21077451/pexels-photo-21077451/free-photo-of-oxford.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background: url(https://images.pexels.com/photos/2041540/pexels-photo-2041540.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
     background-position: center;
     background-size: cover;
 }
