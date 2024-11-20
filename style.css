@@ -1,0 +1,102 @@
+/*genaral styling*/
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #ffffff;
+    margin: 0;
+}
+/* Header Styling */
+header {
+    background-color: #4682B4;
+    color: #fff;
+    padding: 0.1rem;
+    text-align: center;
+}
+header nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 0.5rem;
+}
+header nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+}
+/* Section Styling */
+.jumbotron, .content-section {
+    padding: 4rem 1rem;
+    min-height: 600px; /* Increased height */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: url(images/pexels-ekrulila-2292837.jpg);
+    background-size: cover;
+    background-position: center;
+    color: rgb(231, 226, 226);
+    font-size: 25px;
+    font-weight: 600;
+}
+.jumbotron {
+    background:url(images/pexels-pixabay-289740.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+}
+.enroll {
+    background: url(images/pexels-pixabay-356065.jpg);
+    background-position: center;
+    background-size: cover;
+    color: #ffffff;
+}
+button {
+    margin-top: 1rem;
+    background-color: #FF6347;
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    font-size: 1rem;
+    border-radius: 4px;
+}
+button:hover {
+    background-color: #FF4500;
+}
+.course-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
+/* Footer */
+footer {
+    background-color: #4682B4;
+    color: #ffffff;
+    text-align: center;
+    padding: 1rem;
+}
+/* Section Background Colors */
+#about {
+    background:url(images/pexels-_-cecile-2065577-21077451.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#courses {
+    background: url(images/pexels-rafael-cosquiere-1059286-2041540.jpg);
+    background-position: center;
+    background-size: cover;
+}
+/* Contact Us Section Styling */
+#contact {
+    background-color: rgb(80, 80, 132); 
+    padding: 1rem;
+    height:200px; /* Set specific height */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
