@@ -33,7 +33,7 @@ header nav ul li a {
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: url(images/pexels-ekrulila-2292837.jpg);
+    background: url(pexels-ekrulila-2292837.jpg);
     background-size: cover;
     background-position: center;
     color: rgb(231, 226, 226);
@@ -41,13 +41,13 @@ header nav ul li a {
     font-weight: 600;
 }
 .jumbotron {
-    background:url(images/pexels-pixabay-289740.jpg);
+    background:url(pexels-pixabay-289740.jpg);
     background-size: cover;
     background-position: center;
     color: #ffffff;
 }
 .enroll {
-    background: url(images/pexels-pixabay-356065.jpg);
+    background: url(pexels-pixabay-356065.jpg);
     background-position: center;
     background-size: cover;
     color: #ffffff;
@@ -80,12 +80,12 @@ footer {
 }
 /* Section Background Colors */
 #about {
-    background:url(images/pexels-_-cecile-2065577-21077451.jpg);
+    background:url(pexels-_-cecile-2065577-21077451.jpg);
     background-size: cover;
     background-position: center;
 }
 #courses {
-    background: url(images/pexels-rafael-cosquiere-1059286-2041540.jpg);
+    background: url(pexels-rafael-cosquiere-1059286-2041540.jpg);
     background-position: center;
     background-size: cover;
 }
