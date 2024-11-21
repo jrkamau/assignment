@@ -100,3 +100,15 @@ footer {
     justify-content: center;
     text-align: center;
 }
+
+.box-icons a{
+    font-size: 40px;
+    margin-right: 40px;;
+    
+}
+.box-icons a:hover{
+    color: red;
+}
+.box-icons a:active{ 
+    color: blue;
+}
